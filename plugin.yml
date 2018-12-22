@@ -1,0 +1,4 @@
+main: net.theuniverscraft.HgAchievementsListener.HgAchievementsListener
+name: HgAchievementsListener
+version: 0.1
+depend: [HgAchievements]
